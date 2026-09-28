@@ -1,0 +1,11 @@
+{
+  "org": "asimov-modules",
+  "repo": "asimov-readwise-module",
+  "versions": [
+    {
+      "commit": "d584c58a357ff628278db508e1a75bcb55c9201f",
+      "tag": "v0.1.0",
+      "parsed_at": "2026-09-28T07:32:46.802689+00:00"
+    }
+  ]
+}
