@@ -1,0 +1,7 @@
+[2026-09-28T07:25:37Z] === AST ITERATION 1 START | repo=asimov-modules/asimov-readwise-module sha=d584c58a ===
+[2026-09-28T07:25:37Z] [iter=1] PHASE START: ast repo=asimov-modules/asimov-readwise-module sha=d584c58a
+[2026-09-28T07:25:37Z] [iter=1] Building AST aggregate chunks
+[2026-09-28T07:25:39Z] [iter=1] AST chunks built count=1 triples=25188
+[2026-09-28T07:25:39Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/d584c58a357ff628278db508e1a75bcb55c9201f/.complete
+[2026-09-28T07:25:39Z] [iter=1] PHASE END: ast elapsed_s=2 elapsed_min=0.0
+[2026-09-28T07:25:39Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
