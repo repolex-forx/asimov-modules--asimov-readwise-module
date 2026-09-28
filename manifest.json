@@ -43,6 +43,139 @@
       ],
       "ast": [
         "aggregate/ast/d584c58a357ff628278db508e1a75bcb55c9201f/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/d584c58a357ff628278db508e1a75bcb55c9201f.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "asimov-module",
+          "ecosystem": "CARGO",
+          "version": "25.0.0-dev.19",
+          "githubOrg": "asimov-platform",
+          "githubRepo": "asimov.rs",
+          "githubCommit": "eeca92906a8e6fab3ce49d3b0bf90a3b8e8def66",
+          "githubTag": "25.0.0-dev.19",
+          "githubUrl": "https://github.com/asimov-platform/asimov.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "jq",
+          "ecosystem": "CARGO",
+          "version": "0.1",
+          "githubOrg": "dryrust",
+          "githubRepo": "jq.rs",
+          "githubUrl": "https://github.com/dryrust/jq.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde",
+          "ecosystem": "CARGO",
+          "version": "1.0",
+          "githubOrg": "serde-rs",
+          "githubRepo": "serde",
+          "githubUrl": "https://github.com/serde-rs/serde",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde_json",
+          "ecosystem": "CARGO",
+          "version": "1.0",
+          "githubOrg": "serde-rs",
+          "githubRepo": "json",
+          "githubUrl": "https://github.com/serde-rs/json",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "anyhow",
+          "ecosystem": "CARGO",
+          "version": "1.0",
+          "githubOrg": "dtolnay",
+          "githubRepo": "anyhow",
+          "githubUrl": "https://github.com/dtolnay/anyhow",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "tracing-subscriber",
+          "ecosystem": "CARGO",
+          "version": "0.3",
+          "githubOrg": "tokio-rs",
+          "githubRepo": "tracing",
+          "githubUrl": "https://github.com/tokio-rs/tracing",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "colored_json",
+          "ecosystem": "CARGO",
+          "version": "2.1",
+          "githubOrg": "ctron",
+          "githubRepo": "colored_json",
+          "githubUrl": "https://github.com/ctron/colored_json",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "clap",
+          "ecosystem": "CARGO",
+          "version": "4.5",
+          "githubOrg": "clap-rs",
+          "githubRepo": "clap",
+          "githubUrl": "https://github.com/clap-rs/clap",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "clientele",
+          "ecosystem": "CARGO",
+          "version": "0.3.8",
+          "githubOrg": "dryrust",
+          "githubRepo": "clientele.rs",
+          "githubCommit": "18a9d41f329119836131c590ec8710bdddc65862",
+          "githubTag": "0.3.8",
+          "githubUrl": "https://github.com/dryrust/clientele.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "ureq",
+          "ecosystem": "CARGO",
+          "version": "3.1.0",
+          "githubOrg": "algesten",
+          "githubRepo": "ureq",
+          "githubCommit": "1791e181b5c316b8a70a9e52427448d760ce591a",
+          "githubTag": "3.1.0",
+          "githubUrl": "https://github.com/algesten/ureq",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "getenv",
+          "ecosystem": "CARGO",
+          "version": "0.1.2",
+          "githubOrg": "dryrust",
+          "githubRepo": "getenv.rs",
+          "githubCommit": "6fafcf5587045ec427a804d3ea3da9b63e0605dd",
+          "githubTag": "0.1.2",
+          "githubUrl": "https://github.com/dryrust/getenv.rs",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getenv-0.1.2/src/vars.rs"
+        },
+        {
+          "packageName": "dotenvy",
+          "ecosystem": "CARGO",
+          "version": "0.15.7",
+          "githubOrg": "allan2",
+          "githubRepo": "dotenvy",
+          "githubCommit": "e330110a7cd9064ec913e554c9fc325c9d7cdb88",
+          "githubTag": "v0.15.7",
+          "githubUrl": "https://github.com/allan2/dotenvy",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenvy-0.15.7/src/lib.rs"
+        },
+        {
+          "packageName": "secrecy",
+          "ecosystem": "CARGO",
+          "version": "0.10.3",
+          "githubOrg": "iqlusioninc",
+          "githubRepo": "crates",
+          "githubUrl": "https://github.com/iqlusioninc/crates/tree/main/secrecy",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/secrecy-0.10.3/src/lib.rs"
+        }
       ]
     }
   ],
